@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shivam12221831/LeetCode/tree/master/0169-majority-element) |
+| [0567-permutation-in-string](https://github.com/Shivam12221831/LeetCode/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -67,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shivam12221831/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shivam12221831/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shivam12221831/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Shivam12221831/LeetCode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Shivam12221831/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shivam12221831/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Shivam12221831/LeetCode/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shivam12221831/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Shivam12221831/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Shivam12221831/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
