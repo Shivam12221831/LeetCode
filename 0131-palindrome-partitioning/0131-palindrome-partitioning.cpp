@@ -1,9 +1,13 @@
 class Solution {
 public:
     bool isPalindrome(string s){
-        string s2 = s;
-        reverse(s2.begin(), s2.end());
-        return s == s2;
+        int st=0, end=s.length()-1;
+        while(st < end){
+            if(s[st++] != s[end--]){
+                return false;
+            }
+        }
+        return true;
     }
     void getAllParts(string s, vector<string> &partitions, vector<vector<string>> &ans){
         if(s.size() == 0){
