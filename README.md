@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shivam12221831/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Shivam12221831/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Shivam12221831/LeetCode/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
@@ -156,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Shivam12221831/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shivam12221831/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Shivam12221831/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Shivam12221831/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
