@@ -5,13 +5,7 @@ public:
         int totalGas = 0, totalCost = 0;
         for(int i=0; i<gas.size(); i++){
             totalGas += gas[i];
-        }
-        for(int i=0; i<cost.size(); i++){
             totalCost += cost[i];
-        }
-        if(totalGas < totalCost) return -1;
-
-        for(int i=0; i<gas.size(); i++){
             currGas += gas[i] - cost[i];
             if(currGas < 0){
                 start = i+1;
@@ -19,6 +13,6 @@ public:
             }
         }
 
-        return start;
+        return totalGas < totalCost ? -1 : start;
     }
 };
