@@ -2,9 +2,7 @@ class Solution {
 public:
     bool isFreqSame(int freq1[], int freq2[]){
         for(int i=0; i<26; i++){
-            if(freq1[i] != freq2[i]){
-                return false;
-            }
+            if(freq1[i] != freq2[i]) return false;
         }
         return true;
     }
@@ -13,16 +11,16 @@ public:
         for(int i=0; i<s1.length(); i++){
             freq[s1[i] - 'a']++;
         }
+        int winsz = s1.length();
 
-        int wnSize = s1.length();
         for(int i=0; i<s2.length(); i++){
-            int wnIdx = 0, idx = i;
-            int wnfreq[26] = {0};
-            while(wnIdx < wnSize && idx < s2.length()){
-                wnfreq[s2[idx] - 'a']++;
-                wnIdx++, idx++;
+            int winIdx = 0, idx = i;
+            int winFreq[26] = {0};
+            while(winIdx < winsz && idx < s2.length()){
+                winFreq[s2[idx] - 'a']++;
+                winIdx++, idx++;
             }
-            if(isFreqSame(freq, wnfreq)){
+            if(isFreqSame(freq, winFreq)){
                 return true;
             }
         }
