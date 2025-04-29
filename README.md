@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shivam12221831/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Shivam12221831/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivam12221831/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Shivam12221831/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shivam12221831/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam12221831/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Shivam12221831/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivam12221831/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivam12221831/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivam12221831/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shivam12221831/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam12221831/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam12221831/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Shivam12221831/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivam12221831/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivam12221831/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivam12221831/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shivam12221831/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam12221831/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shivam12221831/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Counting
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shivam12221831/LeetCode/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/Shivam12221831/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Shivam12221831/LeetCode/tree/master/1013-fibonacci-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shivam12221831/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Shivam12221831/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam12221831/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shivam12221831/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Shivam12221831/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shivam12221831/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivam12221831/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Shivam12221831/LeetCode/tree/master/0792-binary-search) |
@@ -196,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Shivam12221831/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Shivam12221831/LeetCode/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Shivam12221831/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shivam12221831/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Memoization
 |  |
