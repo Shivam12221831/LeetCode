@@ -1,30 +1,25 @@
 class Solution {
 public:
-    void reverseArr(vector<int> &nums, int s, int e){
-        while(s <= e){
-            swap(nums[s], nums[e]);
-            s++;
-            e--;
-        }
-    }
     void nextPermutation(vector<int>& nums) {
-        int n = nums.size(), piv = -1;
+        int pivot = -1;
+        int n = nums.size();
         for(int i=n-2; i>=0; i--){
-            if(nums[i] < nums[i+1]){
-                piv = i;
+            if(nums[i]<nums[i+1]){
+                pivot = i;
                 break;
             }
         }
-        if(piv == -1){
-            reverseArr(nums, 0, n-1);
-            return;
-        }
-        for(int i=n-1; i>piv; i--){
-            if(nums[piv] < nums[i]){
-                swap(nums[i], nums[piv]);
-                break;
+        if(pivot == -1){
+            reverse(nums.begin(), nums.end());
+        } else {
+            for(int i=n-1; i>pivot; i--){
+                if(nums[i]>nums[pivot]){
+                    swap(nums[i], nums[pivot]);
+                    break;
+                }
             }
+
+            reverse(nums.begin()+pivot+1, nums.end());
         }
-        reverseArr(nums, piv+1, n-1);
     }
 };
