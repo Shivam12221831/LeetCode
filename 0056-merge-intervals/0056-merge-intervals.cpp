@@ -5,19 +5,11 @@ public:
         sort(intervals.begin(), intervals.end());
         vector<vector<int>> ans;
         for(int i=0; i<n; i++){
-            int first = intervals[i][0];
-            int second = intervals[i][1];
-            if(!ans.empty() && ans.back()[1] >= second){
-                continue;
+            if(ans.empty() || ans.back()[1] < intervals[i][0]){
+                ans.push_back(intervals[i]);
+            } else {
+                ans.back()[1] = max(ans.back()[1], intervals[i][1]);
             }
-            for(int j=i+1; j<n; j++){
-                if(intervals[j][0] <= second){
-                    second = max(second, intervals[j][1]);
-                } else {
-                    break;
-                }
-            }
-            ans.push_back({first, second});
         }
         return ans;
     }
