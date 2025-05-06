@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Shivam12221831/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Shivam12221831/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Shivam12221831/LeetCode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Shivam12221831/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Shivam12221831/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Shivam12221831/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shivam12221831/LeetCode/tree/master/0053-maximum-subarray) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Shivam12221831/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shivam12221831/LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Shivam12221831/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Shivam12221831/LeetCode/tree/master/1013-fibonacci-number) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shivam12221831/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Shivam12221831/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Shivam12221831/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shivam12221831/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shivam12221831/LeetCode/tree/master/0074-search-a-2d-matrix) |
