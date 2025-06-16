@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shivam12221831/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shivam12221831/LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Shivam12221831/LeetCode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Shivam12221831/LeetCode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/Shivam12221831/LeetCode/tree/master/1013-fibonacci-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shivam12221831/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shivam12221831/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shivam12221831/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shivam12221831/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Shivam12221831/LeetCode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivam12221831/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Shivam12221831/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shivam12221831/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
