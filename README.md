@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Shivam12221831/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shivam12221831/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Shivam12221831/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivam12221831/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Shivam12221831/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shivam12221831/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shivam12221831/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shivam12221831/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam12221831/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivam12221831/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Shivam12221831/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Counting
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Shivam12221831/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Shivam12221831/LeetCode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Shivam12221831/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivam12221831/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Shivam12221831/LeetCode/tree/master/0134-gas-station) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivam12221831/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Tree
 |  |
 | ------- |
