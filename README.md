@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Shivam12221831/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Shivam12221831/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shivam12221831/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shivam12221831/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivam12221831/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Shivam12221831/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivam12221831/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shivam12221831/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shivam12221831/LeetCode/tree/master/0213-house-robber-ii) |
 | [1013-fibonacci-number](https://github.com/Shivam12221831/LeetCode/tree/master/1013-fibonacci-number) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shivam12221831/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Shivam12221831/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shivam12221831/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivam12221831/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shivam12221831/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivam12221831/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Matrix
 |  |
