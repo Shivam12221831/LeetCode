@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shivam12221831/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shivam12221831/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Shivam12221831/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2211-k-radius-subarray-averages](https://github.com/Shivam12221831/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Shivam12221831/LeetCode/tree/master/2294-minimum-time-to-complete-trips) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivam12221831/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/Shivam12221831/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Shivam12221831/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivam12221831/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shivam12221831/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2211-k-radius-subarray-averages](https://github.com/Shivam12221831/LeetCode/tree/master/2211-k-radius-subarray-averages) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shivam12221831/LeetCode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Matrix
 |  |
