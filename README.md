@@ -422,4 +422,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Shivam12221831/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/Shivam12221831/LeetCode/tree/master/0595-big-countries) |
 | [0627-swap-salary](https://github.com/Shivam12221831/LeetCode/tree/master/0627-swap-salary) |
+| [1258-article-views-i](https://github.com/Shivam12221831/LeetCode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
