@@ -419,4 +419,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Shivam12221831/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Shivam12221831/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Shivam12221831/LeetCode/tree/master/0184-department-highest-salary) |
+| [0595-big-countries](https://github.com/Shivam12221831/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
