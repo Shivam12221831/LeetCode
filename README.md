@@ -425,4 +425,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Shivam12221831/LeetCode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Shivam12221831/LeetCode/tree/master/0627-swap-salary) |
 | [1258-article-views-i](https://github.com/Shivam12221831/LeetCode/tree/master/1258-article-views-i) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Shivam12221831/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
