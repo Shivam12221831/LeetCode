@@ -1,19 +1,20 @@
 class Solution {
 public:
+    vector<int> generate_row(int row_no){
+        vector<int> row;
+        long long prev = 1;
+        row.push_back(prev);
+        for(int i=1; i<row_no; i++){
+            prev *= row_no-i;
+            prev /= i;
+            row.push_back(prev);
+        }
+        return row;
+    }
     vector<vector<int>> generate(int numRows) {
         vector<vector<int>> ans;
-        if(numRows == 1) return {{1}};
-        if(numRows == 2) return {{1},{1,1}};
-        ans.push_back({1});
-        ans.push_back({1,1});
-        for(int i=2; i<numRows; i++){
-            vector<int> level;
-            level.push_back(1);
-            for(int j=1; j<i; j++){
-                level.push_back(ans[i-1][j]+ans[i-1][j-1]);
-            }
-            level.push_back(1);
-            ans.push_back(level);
+        for(int i=1; i<=numRows; i++){
+            ans.push_back(generate_row(i));
         }
         return ans;
     }
