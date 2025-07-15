@@ -11,9 +11,6 @@ public:
                 nums1[idx--] = nums2[j--];
             }
         }
-        while(i >= 0){
-            nums1[idx--] = nums1[i--];
-        }
         while(j >= 0){
             nums1[idx--] = nums2[j--];
         }
