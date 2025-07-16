@@ -1,17 +1,18 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> freq(n+1, 0);
-        for(int i=0; i<n; i++){
-            if(freq[nums[i]] == 1) return nums[i];
-            freq[nums[i]]++;
+        int slow = nums[0];
+        int fast = nums[0];
+        do{
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        } while(slow != fast);
+        fast = nums[0];
+        while(slow != fast){
+            slow = nums[slow];
+            fast = nums[fast];
         }
-        // for(int i=1; i<freq.size(); i++){
-        //     if(freq[i] > 1){
-        //         return i;
-        //     }
-        // }
-        return -1;
+
+        return slow;
     }
 };
